@@ -23,7 +23,7 @@ tenho 15 anos, moro em são josé das palmeiras /pr e sou aluna da diciplina de 
 <img  width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 </code>
 <code>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+<img width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
 
 </code>
 
