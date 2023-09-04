@@ -13,7 +13,10 @@ tenho 15 anos, moro em são josé das palmeiras /pr e sou aluna da diciplina de 
 
 ###  tecnologia e ferramentas:
 <code> 
+  
 </code> 
-
+<code>
+  
 </code>
+
 
